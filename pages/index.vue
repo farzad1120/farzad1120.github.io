@@ -3,18 +3,18 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        fz1-website
+        Farzad Zarasvand
       </h1>
       <h2 class="subtitle">
-        FZ1.ir Website
+        Personal Blog - Under Construction
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://twitter/frz59"
           target="_blank"
-          class="button--green">Documentation</a>
+          class="button--green">Twitter</a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/farzad1120"
           target="_blank"
           class="button--grey">GitHub</a>
       </div>
