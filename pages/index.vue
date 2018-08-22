@@ -17,6 +17,10 @@
           href="https://github.com/farzad1120"
           target="_blank"
           class="button--grey">GitHub</a>
+        <a
+          href="https://facebook.com/frz59"
+          target="_blank"
+          class="button--blue">Facebook</a>
       </div>
     </div>
   </section>
