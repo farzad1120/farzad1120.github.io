@@ -1,6 +1,6 @@
 <template>
   <div class="VueToNuxtLogo">
-    <img src="https://avatars3.githubusercontent.com/u/3930237" height="360" alt="Farzad Zarasvand">
+    <img src="https://avatars3.githubusercontent.com/u/3930237" height="128" alt="Farzad Zarasvand">
   </div>
 </template>
 
